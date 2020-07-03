@@ -350,7 +350,7 @@ local function BXVTW_fake_script()
 	local script = Instance.new('LocalScript', AnomicAlpha)
 
 	while true do
-		if game.Players.LocalPlayer.Name == "Plsgivemeskinslol" or "" or "" or "" or "" or "" or "" then
+		if game.Players.LocalPlayer.Name == "Plsgivemeskinslol" or "Tboygames" or "" or "" or "" or "" or "" then
 			wait()
 		else
 			game.Players.LocalPlayer:kick("You are not Whitelisted")
